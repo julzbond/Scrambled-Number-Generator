@@ -1,0 +1,25 @@
+{
+  "name": "Scrambled-Number-Generator",
+  "version": "1.0.0",
+  "description": "Scrambled Number Generator ==========",
+  "main": "generator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julzbond/Scrambled-Number-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julzbond/Scrambled-Number-Generator/issues"
+  },
+  "homepage": "https://github.com/julzbond/Scrambled-Number-Generator",
+  "devDependencies": {
+    "chai": "^2.3.0"
+  }
+}
